@@ -11,9 +11,9 @@ Hello, I'm Yoeng, a final-year Computer Engineering student specializing in the 
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://linkedin.com/in/username
-- GitHub: https://github.com/username
-- Email: username@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yoeng-kok-leong-3629a422b
+- GitHub: https://github.com/YoengKokLeong
+- Email: kl160201@gmail.com
 
 ## Logo
 - YOENG
