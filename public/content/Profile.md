@@ -2,12 +2,12 @@
 - Portable Portfolio
 
 ## Header
-- Hi, my name is Eldora. 
-- I'm a software engineer.
-- Short Description Here.
+- Yoeng Kok Leong
+- Computer Engineering undergraduate
+- with a Specialisation in Internet of Things
 
 ## About
-Write your "About" section here.
+Hello, I'm Yoeng, a final-year Computer Engineering student specializing in the Internet of Things (IoT). I have a deep passion for robotics and machine learning, and I'm driven to build smart, connected systems that interact with and learn from the physical world.
 
 ## Contact
 Write your "Contact" section here.
@@ -16,4 +16,4 @@ Write your "Contact" section here.
 - Email: username@gmail.com
 
 ## Logo
-- EB
+- YOENG
