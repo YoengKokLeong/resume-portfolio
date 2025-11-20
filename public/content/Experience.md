@@ -51,7 +51,9 @@
 - Badges:
   - ROS2 [black]
   - Python [green]
+  - Machine Learning [orange]
 - List Items:
+  - Robotics perception with computer vision and ROS
 
 All tab
 ## Changi Airport Group
@@ -61,7 +63,9 @@ All tab
 - Badges:
   - ROS2 [black]
   - Python [green]
+  - Machine Learning [orange]
 - List Items:
+  - Robotics perception with computer vision and ROS
 
 ## GovTech
 - *Software Engineer Intern (Robotics)* | Jun 25 - Sep 25
