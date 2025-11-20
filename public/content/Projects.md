@@ -39,3 +39,14 @@ Through CG1111A, my teammates and I completed a project on building a mBot that 
 - Tags: CG1111A
 - Badges:
 - Buttons:
+
+## LetsQuit
+LetsQuit is a platform created to help keen Quitters overcome their addictions. Through gamified features, streak trackers and an online support group, LetsQuit aims to captivate users, motivate them and help them proactively abstain from their addictions.
+- ![600x200](../assets/LetsQuit.png)
+- Tags: LetsQuit
+- Badges:
+  - React [blue]
+  - HTML [orange]
+  - Javascript [yellow]
+- Buttons:
+  - Link [https://letsquit-1b913.web.app]
