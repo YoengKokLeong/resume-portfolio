@@ -1,22 +1,22 @@
-## Project 1
+## Drone
 Description
-- Tags: Category 1
+- Tags: Drone
 - Badges:
   - Badge [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 2
+## Coming Soon
 Description
-- Tags: Category 2
+- Tags: Coming Soon
 - Badges:
   - Badge [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 3
+## Coming Soon
 Description
-- Tags: Category 3
+- Tags: Coming Soon
 - Badges:
   - Badge [blue]
 - Buttons:
