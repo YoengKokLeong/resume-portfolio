@@ -6,6 +6,7 @@ import About from './components/About';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Credit from './components/Credit';
 import Footer from './components/Footer';
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
       <Experience color={color} />
       <Projects color={color} />
       <Contact color={color} />
+      <Credit color={color} />
       <Footer />
     </>
   );
