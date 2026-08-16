@@ -1,5 +1,5 @@
 ## CG4002, Computer Engineering Capstone Project
-Computer Engineering Capstone Project Augmented Reality (AR) Street-Fighter-Style Game with Wearable Sensing and On-Device Machine Learning Acceleration Our project focuses on the end-to-end development of an interactive Augmented Reality (AR) game inspired by the iconic Street Fighter franchise. The system combines wearable sensing, machine learning–based action recognition, and FPGA-accelerated inference to enable real-time gesture-controlled combat in AR. We designed a custom smart glove equipped with an IMU and flex sensor that captures the player’s hand and arm movements. These sensor streams are fed into a Temporal Convolutional Network (TCN) that classifies specific combat actions such as punches, uppercuts, and palm strikes with high temporal precision. To achieve ultra-low-latency inference suitable for rapid gameplay, we deployed the TCN onto a Zynq Ultrascale+ SoC, leveraging its FPGA fabric as an AI accelerator. Using Vitis HLS and Vivado, our team converted the model from software into synthesizable RTL, integrated custom AXI-Stream data paths, and built a hardware–software co-design pipeline for high-throughput execution. This provides deterministic, high-speed inference directly on the edge device without reliance on cloud compute. On the front end, we developed a mobile AR interface that overlays virtual combat effects fireballs, hits, particle effects—based on the classifier’s output. This creates an immersive, responsive AR fighting experience controlled entirely through natural hand gestures.
+Developed a gesture-controlled AR fighting game using a custom smart glove with IMU and flex sensors. A Temporal Convolutional Network classified combat gestures in real time, with inference accelerated on a Zynq UltraScale+ FPGA using Vitis HLS and Vivado for responsive, on-device gameplay.
 - ![600x200](../assets/CG4002.png)
 - Tags: CG4002
 - Badges:
@@ -40,7 +40,7 @@ Through CG1111A, my teammates and I completed a project on building a mBot that 
 - Badges:
 - Buttons:
 
-## LetsQuit
+## CP2106, Independent Software Development Project
 LetsQuit is a platform created to help keen Quitters overcome their addictions. Through gamified features, streak trackers and an online support group, LetsQuit aims to captivate users, motivate them and help them proactively abstain from their addictions.
 - ![600x200](../assets/LetsQuit.png)
 - Tags: LetsQuit

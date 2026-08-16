@@ -29,7 +29,7 @@
   - Resolved software bugs, handled client bug reports, and deployed software patches.
   - Assisted in R&D for new outdoor robotic solutions, including field testing at a dedicated test site and hardware/circuit troubleshooting.
 
-## GovTech
+## ## Government Technology (GovTech)
 - *Robotics Software Engineer Intern* | Jun 25 - Sep 25
 - ![logo512](../assets/govtech_logo.png)
 - Tags: GovTech
@@ -55,7 +55,7 @@
   - Developed robotics perception systems using computer vision models (e.g. YOLO) and RGB-D cameras for real-time environment understanding.
   - Integrated perception modules with ROS 1/2 robotics stacks by building custom ROS nodes, messaging pipelines, and sensor interfaces.
 
-## Defence Science and Technology AAgency (DSTA)
+## Defence Science and Technology Agency (DSTA)
 - *AI Embodied Robotics Software Engineer* | July 26 - Present
 - ![logo512](../assets/dsta_logo.png)
 - Tags: DSTA
@@ -69,7 +69,7 @@
   - Robotics
 
 All tab
-## Defence Science and Technology AAgency (DSTA)
+## Defence Science and Technology Agency (DSTA)
 - *AI Embodied Robotics Software Engineer* | July 26 - Present
 - ![logo512](../assets/dsta_logo.png)
 - Tags: All
@@ -94,7 +94,7 @@ All tab
   - Developed robotics perception systems using computer vision models (e.g. YOLO) and RGB-D cameras for real-time environment understanding.
   - Integrated perception modules with ROS 1/2 robotics stacks by building custom ROS nodes, messaging pipelines, and sensor interfaces.
 
-## GovTech
+## Government Technology (GovTech)
 - *Robotics Software Engineer Intern* | Jun 25 - Sep 25
 - ![logo512](../assets/govtech_logo.png)
 - Tags: All

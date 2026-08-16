@@ -34,7 +34,7 @@ export default function Contact({ color }) {
           <Stack align="center" direction="row" p={4}>
             <HStack mx={4}>
               <Text color={`${color}.400`} fontWeight={800}>
-                04
+                05
               </Text>
               <Text fontWeight={800}>Contact</Text>
             </HStack>
@@ -44,8 +44,8 @@ export default function Contact({ color }) {
             <Heading fontSize={"3xl"}>Let's stay in touch!</Heading>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
               {profile.contact}
-            <Center>
             </Text>
+            <Center>
               <HStack pt={4} spacing={4}>
                 <FaLinkedin onClick={linkedin} size={28} />
                 <FaGithub onClick={github} size={28} />
@@ -58,4 +58,3 @@ export default function Contact({ color }) {
     </>
   );
 }
-
