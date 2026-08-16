@@ -44,8 +44,8 @@ export default function Contact({ color }) {
             <Heading fontSize={"3xl"}>Let's stay in touch!</Heading>
             <Text color={"gray.600"} fontSize={"xl"} px={4}>
               {profile.contact}
-            </Text>
             <Center>
+            </Text>
               <HStack pt={4} spacing={4}>
                 <FaLinkedin onClick={linkedin} size={28} />
                 <FaGithub onClick={github} size={28} />

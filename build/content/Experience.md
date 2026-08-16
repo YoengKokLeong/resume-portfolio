@@ -43,17 +43,16 @@
   - Built and integrated lift adapters enabling autonomous robots to interface with lift API servers and utilise building lifts via RMF
   - Designed and optimized a centralized logging node to streamline debugging of robot and lift behaviour, leveraging ROS 2 topics, MQTT, and REST APIs
 
-## Changi Airport Group (CAG)
+## Changi Airport Group
 - *Robotics Software Engineer Intern* | Nov 25 - Mar 26
 - ![logo512](../assets/cag_logo.png)
-- Tags: CAG
+- Tags: Changi Airport Group
 - Badges:
   - ROS2 [black]
   - Python [green]
   - Machine Learning [orange]
 - List Items:
-  - Developed robotics perception systems using computer vision models (e.g. YOLO) and RGB-D cameras for real-time environment understanding.
-  - Integrated perception modules with ROS 1/2 robotics stacks by building custom ROS nodes, messaging pipelines, and sensor interfaces.
+  - Robotics perception with computer vision and ROS
 
 ## Defence Science and Technology AAgency (DSTA)
 - *AI Embodied Robotics Software Engineer* | July 26 - Present
@@ -62,11 +61,9 @@
 - Badges:
   - ROS2 [black]
   - Python [green]
-  - C++ [red]
   - Machine Learning [orange]
-  - Docker [blue]
 - List Items:
-  - Robotics
+  - Robotics perception with computer vision and ROS
 
 All tab
 ## Defence Science and Technology AAgency (DSTA)
@@ -76,13 +73,11 @@ All tab
 - Badges:
   - ROS2 [black]
   - Python [green]
-  - C++ [red]
   - Machine Learning [orange]
-  - Docker [blue]
 - List Items:
-  - Robotics
+  - Robotics perception with computer vision and ROS
 
-## Changi Airport Group (CAG)
+## Changi Airport Group
 - *Robotics Software Engineer Intern* | Nov 25 - Mar 26
 - ![logo512](../assets/cag_logo.png)
 - Tags: All
@@ -91,8 +86,7 @@ All tab
   - Python [green]
   - Machine Learning [orange]
 - List Items:
-  - Developed robotics perception systems using computer vision models (e.g. YOLO) and RGB-D cameras for real-time environment understanding.
-  - Integrated perception modules with ROS 1/2 robotics stacks by building custom ROS nodes, messaging pipelines, and sensor interfaces.
+  - Robotics perception with computer vision and ROS
 
 ## GovTech
 - *Robotics Software Engineer Intern* | Jun 25 - Sep 25

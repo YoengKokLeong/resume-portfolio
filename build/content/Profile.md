@@ -3,11 +3,11 @@
 
 ## Header
 - Yoeng Kok Leong
-- Robotics Software Engineer
-- NUS Computer Engineering
+- NUS Computer Engineering graduate
+- with a Specialisation in Internet of Things
 
 ## About
-Hello! I'm Yoeng, a Robotics Software Engineer with a background in Computer Engineering from the National University of Singapore (NUS).
+Hello! I'm Yoeng, a Robotics Software Engineer with a background in Computer Engineering and a specialisation in Internet of Things from the National University of Singapore (NUS).
 
 I'm passionate about robotics, machine learning, and building intelligent systems that interact with and learn from the physical world.
 

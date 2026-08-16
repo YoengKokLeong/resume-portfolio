@@ -28,12 +28,18 @@ export default function About({ color }) {
               </HStack>
               <Divider orientation="horizontal" />
             </Stack>
-            <Text color={"white.600"} fontSize={"xl"} px={4}>
-              {profile.about}
-            </Text>
+            <Stack spacing={4} px={4}>
+              {profile.about
+                .split(/\n\s*\n/)
+                .filter(Boolean)
+                .map((paragraph, index) => (
+                  <Text color={"white.600"} fontSize={"xl"} key={index}>
+                    {paragraph}
+                  </Text>
+                ))}
+            </Stack>
           </Stack>
         </Container>
       </>
     );
 }
-
